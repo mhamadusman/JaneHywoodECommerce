@@ -1,0 +1,32 @@
+E:\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+E:\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+E:\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+E:\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\Core.dll
+E:\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\Core.pdb
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll
+E:\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.deps.json
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\Core.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\bin\Debug\net8.0\Core.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.AssemblyReference.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfoInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.AssemblyInfo.cs
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.csproj.CoreCompileInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\Applicat.033E422A.Up2Date
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\refint\ApplicationLayer.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ApplicationLayer.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\ApplicationLayer\obj\Debug\net8.0\ref\ApplicationLayer.dll

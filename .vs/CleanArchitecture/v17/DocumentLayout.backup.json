@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\collection\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\collection\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\controllers\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\controllers\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1475FA6-7D6A-4375-A241-8A383003BD96}|Inftastructure\\Inftastructure.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\inftastructure\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1475FA6-7D6A-4375-A241-8A383003BD96}|Inftastructure\\Inftastructure.csproj|solutionrelative:inftastructure\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\controllers\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\controllers\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\myapp.api\\myapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A52A23CD-4AF1-48EB-9D0D-0DA69D8C75C0}|myApp.api\\myApp.api.csproj|solutionrelative:myapp.api\\myapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\shared\\_cartitemspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\shared\\_cartitemspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\order\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\order\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1475FA6-7D6A-4375-A241-8A383003BD96}|Inftastructure\\Inftastructure.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\inftastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1475FA6-7D6A-4375-A241-8A383003BD96}|Inftastructure\\Inftastructure.csproj|solutionrelative:inftastructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\models\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\newarival\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\newarival\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|e:\\new folder\\cleanarchitecture\\cleanarchitecture\\web\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7387E32-DD6E-4D69-8C1D-24E3002E4D87}|web\\web.csproj|solutionrelative:web\\views\\collection\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyDb/True/SqlTable/dbo.CartItem.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "web\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAjwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:03:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-18T18:42:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_cartItemsPartial.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Shared\\_cartItemsPartial.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\_cartItemsPartial.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Shared\\_cartItemsPartial.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\_cartItemsPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:50:02.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:45:37.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:45:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "web\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAjwLsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:15:45.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_newLayout.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Shared\\_newLayout.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\_newLayout.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Shared\\_newLayout.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\_newLayout.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T12:14:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "myApp.api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAywGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:21:33.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "myApp.api\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:21:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "myApp.api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:56:18.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "myApp.api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "myApp.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T13:09:17.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Program.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Program.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Program.cs",
+              "RelativeToolTip": "myApp.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:57:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "myApp.api.http",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\myApp.api.http",
+              "RelativeDocumentMoniker": "myApp.api\\myApp.api.http",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\myApp.api.http",
+              "RelativeToolTip": "myApp.api\\myApp.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-09T12:56:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\appsettings.json",
+              "RelativeDocumentMoniker": "myApp.api\\appsettings.json",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\appsettings.json",
+              "RelativeToolTip": "myApp.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T12:25:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Controllers\\CartItemController.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "myApp.api\\Controllers\\CartItemController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:29:27.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "viewCart.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Order\\viewCart.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Order\\viewCart.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Order\\viewCart.cshtml",
+              "RelativeToolTip": "web\\Views\\Order\\viewCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:20:59.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "myApp.api\\Controllers\\OrderProduct.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\myApp.api\\Controllers\\OrderProduct.cs",
+              "RelativeToolTip": "myApp.api\\Controllers\\OrderProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:03:58.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "checkOut.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Order\\checkOut.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Order\\checkOut.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Order\\checkOut.cshtml",
+              "RelativeToolTip": "web\\Views\\Order\\checkOut.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAIBJwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T10:59:24.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\Inftastructure\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Inftastructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\Inftastructure\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Inftastructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAcwNgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:26:19.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\NewArival\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\NewArival\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\NewArival\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\NewArival\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T10:45:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\Collection.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\Collection.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Controllers\\Collection.cs",
+              "RelativeToolTip": "web\\Controllers\\Collection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:08:44.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckOutViewModel.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Models\\CheckOutViewModel.cs",
+              "RelativeDocumentMoniker": "web\\Models\\CheckOutViewModel.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Models\\CheckOutViewModel.cs",
+              "RelativeToolTip": "web\\Models\\CheckOutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:22:02.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notificationhub.cs",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\Inftastructure\\Hubs\\Notificationhub.cs",
+              "RelativeDocumentMoniker": "Inftastructure\\Hubs\\Notificationhub.cs",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\Inftastructure\\Hubs\\Notificationhub.cs",
+              "RelativeToolTip": "Inftastructure\\Hubs\\Notificationhub.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:28:31.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "singleProduct.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Collection\\singleProduct.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Collection\\singleProduct.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Collection\\singleProduct.cshtml",
+              "RelativeToolTip": "web\\Views\\Collection\\singleProduct.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAOAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T10:08:49.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Collection\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Collection\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\CleanArchitecture\\CleanArchitecture\\web\\Views\\Collection\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Collection\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T09:20:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.CartItem.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyDb/True/SqlTable/dbo.CartItem.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MyDb/True/SqlTable/dbo.CartItem.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-08T09:49:30.925Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+E:\CleanArchitecture\Core\bin\Debug\net8.0\Core.deps.json
+E:\CleanArchitecture\Core\bin\Debug\net8.0\Core.dll
+E:\CleanArchitecture\Core\bin\Debug\net8.0\Core.pdb
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.dll
+E:\CleanArchitecture\Core\obj\Debug\net8.0\refint\Core.dll
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.pdb
+E:\CleanArchitecture\Core\obj\Debug\net8.0\ref\Core.dll
+E:\CleanArchitecture\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\bin\Debug\net8.0\Core.deps.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\bin\Debug\net8.0\Core.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\bin\Debug\net8.0\Core.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\refint\Core.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\Core.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\Core\obj\Debug\net8.0\ref\Core.dll

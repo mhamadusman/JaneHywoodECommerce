@@ -1,0 +1,32 @@
+E:\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.deps.json
+E:\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.dll
+E:\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.pdb
+E:\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Core.dll
+E:\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Core.pdb
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.csproj.AssemblyReference.cache
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.AssemblyInfoInputs.cache
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.AssemblyInfo.cs
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.csproj.CoreCompileInputs.cache
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastr.853B6405.Up2Date
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.dll
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\refint\Inftastructure.dll
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.pdb
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\ref\Inftastructure.dll
+E:\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.deps.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Inftastructure.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Core.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\bin\Debug\net8.0\Core.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.csproj.AssemblyReference.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.AssemblyInfoInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.AssemblyInfo.cs
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.csproj.CoreCompileInputs.cache
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.sourcelink.json
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastr.853B6405.Up2Date
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\refint\Inftastructure.dll
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\Inftastructure.pdb
+E:\New folder\CleanArchitecture\CleanArchitecture\Inftastructure\obj\Debug\net8.0\ref\Inftastructure.dll
